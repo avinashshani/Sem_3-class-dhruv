@@ -1,4 +1,4 @@
-btech 
+ibtech 
 CSE
 btech CSE AIML
 Dhruv Lekhi
@@ -6,4 +6,8 @@ Hello
 I am 18 years old
 I am Tall
 My friend is vinayak
+He is from kerela
+I live in banglore
+Now testing code in test1 branch 
+btech cyber security
 
