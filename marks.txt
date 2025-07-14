@@ -1,3 +1,4 @@
 Maths:40/50
 English:45/50
 Physics:50/50
+Hindi:32/50
